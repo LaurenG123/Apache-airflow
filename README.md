@@ -7,11 +7,11 @@ The following project was produced for Sparta Global by
 
 
 <b> Authors : </b>
-<a href= "https://github.com/andyc2901">Andrew Carver</a>
-<a href= "https://github.com/IsakGrimsson">Isak Grimsson</a>
-<a href= "https://github.com/tommyainsworth">Tommy Ainsworth</a>
-<a href= "https://github.com/ruthChanarin">Ruth Chanarin</a>
-<a href= "https://github.com/wilkiesophie">Sophie Wilkie</a>
+<a href= "https://github.com/andyc2901">Andrew Carver,</a>
+<a href= "https://github.com/IsakGrimsson">Isak Grimsson,</a>
+<a href= "https://github.com/tommyainsworth">Tommy Ainsworth,</a>
+<a href= "https://github.com/ruthChanarin">Ruth Chanarin,</a>
+<a href= "https://github.com/wilkiesophie">Sophie Wilkie,</a>
 <a href= "https://github.com/LaurenG123">Lauren Gorst</a>
 
 
