@@ -4,8 +4,16 @@ https://github.com/LaurenG123/Apache-airflow/assets/72687468/7f79066a-b3d0-4cd5-
 
 
 The following project was produced for Sparta Global by 
+
+
 <b> Authors : </b>
-Andrew Carver, Ruth Chanarin, Tommy Ainsworth, Sophie Wilkie, Lauren Gorst, Isak Grimsson
+<a href= "https://github.com/andyc2901">Andrew Carver</a>
+<a href= "https://github.com/IsakGrimsson">Isak Grimsson</a>
+<a href= "https://github.com/tommyainsworth">Tommy Ainsworth</a>
+<a href= "https://github.com/ruthChanarin">Ruth Chanarin</a>
+<a href= "https://github.com/wilkiesophie">Sophie Wilkie</a>
+<a href= "https://github.com/LaurenG123">Lauren Gorst</a>
+
 
 ### documentation
 
