@@ -23,9 +23,19 @@ The following documentation seeks to provide comparisons between different open 
 
 <a href= "https://docs.google.com/document/d/1eB6-j7ImH06Q_KtI_HebA7Kt_hJ_o6xMyKk9Uc8jKjA/edit?usp=sharing">view document</a>
 
-<b>Business Tools Recomendation:</b> A report detailing further research in favor of xxx
+<b>Business Tools Recomendation:</b> A report detailing further research in favor of Apache Airflow
 
 
 <a href= "https://docs.google.com/document/d/1HfJt76uI8ZiiWN-0nAwIEE043KLQRX_b0qllPqRUEGo/edit#heading=h.gjdgxs">view document</a>
 
+
+
+
+***
+
+**Disclaimer:**
+
+This project is not affiliated with or endorsed by Apache Airflow. Apache Airflow is an open-source project owned and maintained by the Apache Software Foundation. For official information, documentation, and support related to Apache Airflow, please visit the [Apache Airflow website](https://airflow.apache.org/).
+
+Any references to Apache Airflow or its software are made for compatibility and integration purposes only. This project does not claim ownership of Apache Airflow or its trademarks.
 
