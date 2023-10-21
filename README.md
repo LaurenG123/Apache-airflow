@@ -14,7 +14,7 @@ The following documentation seeks to provide comparisons between different open 
 
 <b>Bussiness Tools Overview Report:</b> A report detailing a selected group of data integration tools
 
-https://docs.google.com/document/d/1eB6-j7ImH06Q_KtI_HebA7Kt_hJ_o6xMyKk9Uc8jKjA/edit
+https://docs.google.com/document/d/1eB6-j7ImH06Q_KtI_HebA7Kt_hJ_o6xMyKk9Uc8jKjA/edit?usp=sharing
 
 <b>Business Tools Recomendation:</b> A report detailing further research in favor of xxx
 
