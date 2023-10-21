@@ -1,7 +1,6 @@
 # Data Integration Tools Project
 
-
-
+https://github.com/LaurenG123/Apache-airflow/assets/72687468/7f79066a-b3d0-4cd5-8caa-7cc27a9f4e9b
 
 
 The following project was produced for Sparta Global by 
