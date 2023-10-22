@@ -33,7 +33,7 @@ The following documentation seeks to provide comparisons between different open 
 Docker: [Installation Guide](https://docs.docker.com/get-docker/)
 
 Docker Compose: [Installation Guide](https://docs.docker.com/compose/install/)
-
+### Quick start commands
 #### Installs for Airflow and Docker Compose
         
         pip install apache-airflow
