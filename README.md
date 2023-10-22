@@ -30,6 +30,10 @@ The following documentation seeks to provide comparisons between different open 
 
 ***
 
+Docker: [Installation Guide](https://docs.docker.com/get-docker/)
+
+Docker Compose: [Installation Guide](https://docs.docker.com/compose/install/)
+
 #### Installs for Airflow and Docker Compose
         
         pip install apache-airflow
