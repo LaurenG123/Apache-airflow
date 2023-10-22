@@ -28,10 +28,31 @@ The following documentation seeks to provide comparisons between different open 
 
 <a href= "https://docs.google.com/document/d/1HfJt76uI8ZiiWN-0nAwIEE043KLQRX_b0qllPqRUEGo/edit#heading=h.gjdgxs">view document</a>
 
+***
 
+#### Installs for Airflow and Docker Compose
+        
+        pip install apache-airflow
+        pip install docker-compose
 
 
 ***
+
+#### Docker Compose Commands
+
+      docker-compose up
+      docker-compose down
+
+Rebuild images defined in .yaml/.yml file
+
+      docker-compose build
+
+List running containers in terminal
+
+      docker-compose ps
+
+***
+
 
 **Disclaimer:**
 
