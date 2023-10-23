@@ -4,7 +4,11 @@ https://github.com/LaurenG123/Apache-airflow/assets/72687468/7f79066a-b3d0-4cd5-
 
 
 The following project was produced for Sparta Global by 
+### Our Full Demo Video
 
+https://youtu.be/lsNl2SPctVM?si=2wdeTnPOZBZ17Xp3
+
+***
 
 <b> Authors : </b>
 <a href= "https://github.com/andyc2901">Andrew Carver,</a>
@@ -56,9 +60,7 @@ List running containers in terminal
       docker-compose ps
 
 ***
-#### Our Demo Video
 
-https://youtu.be/lsNl2SPctVM?si=2wdeTnPOZBZ17Xp3
 
 
 **Disclaimer:**
